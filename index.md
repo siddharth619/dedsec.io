@@ -9,8 +9,8 @@ p    {color: red;}
 </head>
 <body>
 
-<h1>Dedsec Project</h1>
-<p>intro</p>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
-</html> 
+</html>
