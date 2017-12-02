@@ -1,7 +1,6 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title> Title  </title>
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
