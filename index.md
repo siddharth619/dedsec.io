@@ -2,14 +2,14 @@
 <html>
 <head>
 <title> Title  </title>
-
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
- </style>
- </head>
+</style>
+</head>
 <body>
+
 <h1>Dedsec Project</h1>
 <p>intro</p>
 
